@@ -1,0 +1,9 @@
+c:\users\yucheng\documents\visual studio 2015\Projects\quickSort\quickSort\bin\Debug\quickSort.exe.config
+c:\users\yucheng\documents\visual studio 2015\Projects\quickSort\quickSort\bin\Debug\quickSort.exe
+c:\users\yucheng\documents\visual studio 2015\Projects\quickSort\quickSort\bin\Debug\quickSort.pdb
+c:\users\yucheng\documents\visual studio 2015\Projects\quickSort\quickSort\obj\Debug\quickSort.csprojResolveAssemblyReference.cache
+c:\users\yucheng\documents\visual studio 2015\Projects\quickSort\quickSort\obj\Debug\quickSort.exe
+c:\users\yucheng\documents\visual studio 2015\Projects\quickSort\quickSort\obj\Debug\quickSort.pdb
+C:\Users\YuCheng\Documents\GitHub\quickSort\quickSort\quickSort\bin\Debug\quickSort.exe.config
+C:\Users\YuCheng\Documents\GitHub\quickSort\quickSort\quickSort\obj\Debug\quickSort.exe
+C:\Users\YuCheng\Documents\GitHub\quickSort\quickSort\quickSort\obj\Debug\quickSort.pdb
